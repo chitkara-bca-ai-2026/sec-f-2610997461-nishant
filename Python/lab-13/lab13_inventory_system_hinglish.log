@@ -1,0 +1,14 @@
+
+2026-11-05 18:04:36,476 - INFO - [User Action] Choice 1: View Inventory select kiya
+2026-11-05 18:04:36,476 - INFO - [Display] Current inventory state: ['Notebook', 'Pen', 'Eraser', 'Ruler']
+2026-11-05 18:04:42,107 - INFO - [User Action] Choice 2: Add Item select kiya
+2026-11-05 18:04:46,181 - INFO - [Success] 'Book' add ho gaya. Updated list: ['Notebook', 'Pen', 'Eraser', 'Ruler', 'Book']
+2026-11-05 18:04:52,551 - INFO - [User Action] Choice 2: Add Item select kiya
+2026-11-05 18:05:03,166 - WARNING - [Validation Warning] Duplicate item add karne ki koshish ki: 'Book'
+2026-11-05 18:05:07,029 - INFO - [User Action] Choice 3: Remove Item select kiya
+2026-11-05 18:05:10,616 - WARNING - [Search Warning] Item list me nahi mila: 'book'
+2026-11-05 18:05:13,154 - INFO - [User Action] Choice 3: Remove Item select kiya
+2026-11-05 18:05:15,007 - INFO - [Success] 'Book' remove ho gaya. Updated list: ['Notebook', 'Pen', 'Eraser', 'Ruler']
+2026-11-05 18:05:18,490 - INFO - [User Action] Choice 4: Sort Inventory select kiya
+2026-11-05 18:05:18,491 - INFO - [Success] Inventory alphabetically sort ho gaya: ['Eraser', 'Notebook', 'Pen', 'Ruler']
+2026-11-05 18:05:23,121 - INFO - [System Shutdown] User dwara application close kar diya gaya.
